@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
     <h3>Section: IT BA - 4102</h3>
 
     <blockquote style="font-style: italic; margin-top: 20px;">
-      "A person who never made a mistake never tried anything new." — Albert Einstein
+      "A person who never made a mistake never tried anything new." -Albert Einstein
     </blockquote>
   `);
 
