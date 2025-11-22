@@ -5,7 +5,7 @@ const server = http.createServer((req, res) => {
   res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
 
   res.write(`
-    <h1>Joseph William Ramos</h1>
+    <h1>Joseph William C. Ramos</h1>
     <h3>Section: IT BA - 4102</h3>
 
     <blockquote style="font-style: italic; margin-top: 20px;">
